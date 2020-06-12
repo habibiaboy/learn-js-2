@@ -1,6 +1,8 @@
 # Learn JS 2
 
-![](screenshoot/screenshoot-1.png)
+
+Testing Screenshot
+![Screenshot](screenshoot/screenshoot-1.png)
 
 Create image gallery with html, css, js, and i add bootstrap 4.
 
