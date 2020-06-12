@@ -12,13 +12,14 @@ Create image gallery with html, css, js, and i add bootstrap 4
 ![ScreenShot](/screenshots/screenshot-2.png)
 
 ## The conclusion of this material 
-
+```
 In JavaScript I learned : 
 Using time out on js
-
+```
+```
 In bootstrap 4.3 i learn : 
 I learned to use the class order to push and pull the class, which is in Bootstrap 3 usual using push and pull. 
-
+```
 
 
 ## This exercise is given by unpas, you can follow this link  :
