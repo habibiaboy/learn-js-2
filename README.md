@@ -1,11 +1,23 @@
 # Learn JS 2
 
+Create image gallery with html, css, js, and i add bootstrap 4 
 
-Testing Screenshot
+
+## Dekstop View
+
 ![ScreenShot](/screenshots/screenshot-1.png)
 
-Create image gallery with html, css, js, and i add bootstrap 4.
+## Mobile View
 
+![ScreenShot](/screenshots/screenshot-2.png)
+
+
+
+## On js i learn : 
+Using time out on js
+
+## On bootstrsp4 i learn : 
+I learned to use the class order to push and pull the class, which is in Bootstrap 3 usual using push and pull. 
 
 
 
