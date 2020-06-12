@@ -22,11 +22,9 @@ I learned to use the class order to push and pull the class, which is in Bootstr
 ```
 
 
-## This exercise is given by unpas, you can follow this link  :
+## My Learning Resources:
+* **Web Programming Unpas** - [dom javascript](https://www.youtube.com/watch?v=zw-d6JPGmxA&list=PLFIM0718LjIWB3YRoQbQh82ZewAGtE2-3&index=13)
 
-```
-https://www.youtube.com/watch?v=zw-d6JPGmxA&list=PLFIM0718LjIWB3YRoQbQh82ZewAGtE2-3&index=13
-```
 
 ## Authors
 
