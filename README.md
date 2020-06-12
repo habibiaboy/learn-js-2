@@ -2,7 +2,7 @@
 
 
 Testing Screenshot
-![Screenshot](screenshoot/screenshoot-1.png)
+![ScreenShot](/screenshots/screenshot-1.png)
 
 Create image gallery with html, css, js, and i add bootstrap 4.
 
